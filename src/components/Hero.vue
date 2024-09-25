@@ -16,7 +16,7 @@
                   <div class="detail-box">
                     <h1>
                       Crypto <br />
-                      Currency
+                      Currency Has Been change
                     </h1>
                     <p>
                       Explicabo esse amet tempora quibusdam laudantium, laborum
