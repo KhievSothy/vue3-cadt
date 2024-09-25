@@ -11,6 +11,7 @@ import Why from "@/pages/Why.vue"
 import Courses from "@/pages/Courses.vue"
 import Login from './pages/Login.vue'
 import Register from './pages/Register.vue'
+import NotFount from './components/NotFount.vue'
 
 
 const routes = [
@@ -20,7 +21,9 @@ const routes = [
     { path: '/why', component: Why },
     { path: '/course', component: Courses },
     { path: '/login', component: Login },
-    { path: '/register', component: Register}
+    { path: '/register', component: Register},
+    { path: '/:pathMatch(.*)*', component: NotFount}
+    
     
 ]
 
