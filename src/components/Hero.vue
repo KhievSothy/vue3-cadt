@@ -15,8 +15,8 @@
                 <div class="col-md-6">
                   <div class="detail-box">
                     <h1>
-                      Crypto Changed for Feature Testing<br />
-                      Currency Has Been change V2.
+                      Crypto<br />
+                      Currency.
                     </h1>
                     <p>
                       Explicabo esse amet tempora quibusdam laudantium, laborum
